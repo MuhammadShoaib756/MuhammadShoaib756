@@ -27,7 +27,7 @@ Full write-ups (18 projects, each with the problem, the fix, and a real metric) 
 
 ## Links
 
-- 🌐 Portfolio & case studies — [shoaibsolutions.com](https://shoaibsolutions.com)
+- 🌐 Portfolio & case studies — [justshoaibthings.vercel.app](https://justshoaibthings.vercel.app/)
 - 💼 Upwork — [100% Job Success, Top Rated](https://www.upwork.com/freelancers/mshoaibakram?mp_source=share)
 - 💬 LinkedIn — [muhammad-shoaib-akram](https://linkedin.com/in/muhammad-shoaib-akram)
 - ✉️ Email — [shoaibakram756@gmail.com](mailto:shoaibakram756@gmail.com)
